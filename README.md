@@ -1,5 +1,7 @@
 Revenue Prediction: A Machine Learning Approach
 
+![Project Banner](Screenshot (18).png)
+
 This project demonstrates the critical role of feature selection in building accurate machine learning models. Starting with a simple single-variable regression, this analysis evolves into a more robust multi-variable model to predict e-commerce revenue. The results clearly show that a well-chosen set of features is paramount for high-quality predictions.
 This repository documents the entire process, from initial analysis to final model evaluation, serving as a practical case study in data journalism and applied machine learning.
 
